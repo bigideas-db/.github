@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://bigideasdb.com/icon.png" alt="BigIdeasDB logo" width="120" />
+
 # BigIdeasDB
 
 **Find validated startup ideas from real user problems scraped from Reddit, G2, Capterra, Upwork, and app stores.**
@@ -73,13 +75,13 @@ BigIdeasDB pulls real complaints and demand signals from 10 platforms. Every opp
 
 Reddit is the largest source of unfiltered user pain on the internet. BigIdeasDB analyzes real user discussions, complaints, and feature requests across 3 million+ subreddits to surface problems people are actively asking someone to solve. Every Reddit-sourced problem links back to the original thread so you can read the demand signal yourself.
 
-[![Reddit Pipeline tutorial for finding startup ideas from Reddit](https://img.youtube.com/vi/IC7LYZqLezY/maxresdefault.jpg)](https://www.youtube.com/watch?v=IC7LYZqLezY)
+Watch the tutorial: [Reddit Pipeline tutorial for finding startup ideas from Reddit](https://www.youtube.com/watch?v=IC7LYZqLezY)
 
 ## G2 Data
 
 G2 hosts reviews for thousands of software products, and the negative reviews are a map of everything users hate about existing tools. BigIdeasDB analyzes 850K+ negative reviews across 350+ software categories and 8,000+ companies to reveal market gaps: missing features, broken workflows, and pricing complaints that a better product could win on. Explore 11 categories and 386 subcategories, each with AI-generated reports covering sentiment, competition, and pain points scored by gap size.
 
-[![G2 Analysis tutorial for finding SaaS ideas from negative reviews](https://img.youtube.com/vi/fQk0Dcy2WFY/maxresdefault.jpg)](https://www.youtube.com/watch?v=fQk0Dcy2WFY)
+Watch the tutorial: [G2 Analysis tutorial for finding SaaS ideas from negative reviews](https://www.youtube.com/watch?v=fQk0Dcy2WFY)
 
 ## Capterra Data
 
@@ -89,13 +91,13 @@ Capterra covers the business software market, and its reviews reveal where curre
 
 Every Upwork job posting is a business paying money to solve a problem manually. BigIdeasDB analyzes Upwork job postings to identify repetitive tasks that can be automated into SaaS products. If hundreds of businesses are hiring freelancers for the same task, that task is a product waiting to be built.
 
-[![Upwork Analysis tutorial for finding SaaS automation opportunities](https://img.youtube.com/vi/U6HX95A4GHI/maxresdefault.jpg)](https://www.youtube.com/watch?v=U6HX95A4GHI)
+Watch the tutorial: [Upwork Analysis tutorial for finding SaaS automation opportunities](https://www.youtube.com/watch?v=U6HX95A4GHI)
 
 ## App Store and Google Play Data
 
 Negative app reviews tell you exactly what mobile users want and are not getting. BigIdeasDB analyzes 500,000+ reviews across 10,000+ apps and 500+ niches from the Apple App Store and Google Play, surfacing 25,000+ pain points. Search any keyword to see how many apps and real reviews sit behind it, then drill into AI analysis for every app.
 
-[![App Store Analysis tutorial for finding mobile app opportunities](https://img.youtube.com/vi/D9DUf6rQ8eg/maxresdefault.jpg)](https://www.youtube.com/watch?v=D9DUf6rQ8eg)
+Watch the tutorial: [App Store Analysis tutorial for finding mobile app opportunities](https://www.youtube.com/watch?v=D9DUf6rQ8eg)
 
 More App Store data tutorials:
 
@@ -126,7 +128,7 @@ Revenue data tutorials:
 
 Build and scale your product with one platform. Every project gets a dedicated workspace with project info, documentation, AI prompts, and customer tracking in one place, so your research, plan, and execution never live in five different tools. Includes project management with Kanban boards, task tracking, and a built-in CRM for managing early users and feedback.
 
-[![BuildHub AI full walkthrough: project management for builders](https://img.youtube.com/vi/LKl85Lah3Ts/maxresdefault.jpg)](https://www.youtube.com/watch?v=LKl85Lah3Ts)
+Watch the tutorial: [BuildHub AI full walkthrough: project management for builders](https://www.youtube.com/watch?v=LKl85Lah3Ts)
 
 More BuildHub tutorials:
 
@@ -136,7 +138,7 @@ More BuildHub tutorials:
 
 An AI-powered Reddit content analysis tool. The agent actively tracks discussions on any subreddit you specify to uncover user pain points and market opportunities. Set your keywords, pick your duration, and the agent extracts structured insights with frequency and impact scores on every pain point, each linked to the original thread.
 
-[![Reddit AI Agent tutorial: automated pain point discovery](https://img.youtube.com/vi/IC7LYZqLezY/maxresdefault.jpg)](https://www.youtube.com/watch?v=IC7LYZqLezY)
+Watch the tutorial: [Reddit AI Agent tutorial: automated pain point discovery](https://www.youtube.com/watch?v=IC7LYZqLezY)
 
 ## BuildGuide
 
@@ -159,7 +161,7 @@ Advanced Reddit automation inside your AI client. Run subreddit research, pull p
 
 Query the entire BigIdeasDB dataset in plain English. Ask questions about categories, pain points, revenue data, and opportunities, and get answers backed by the underlying databases.
 
-[![Database AI Chat tutorial: talk to the entire BigIdeasDB dataset](https://img.youtube.com/vi/XA5c2u33SoU/maxresdefault.jpg)](https://www.youtube.com/watch?v=XA5c2u33SoU)
+Watch the tutorial: [Database AI Chat tutorial: talk to the entire BigIdeasDB dataset](https://www.youtube.com/watch?v=XA5c2u33SoU)
 
 ## Infinity Canvas
 
@@ -173,7 +175,7 @@ An interactive board for visualizing your entire product plan and market researc
 
 Browse every category on G2 and let AI turn negative reviews into opportunities. Covers 350+ software categories, 8,000+ companies, and 850K+ negative reviews. Every subcategory gets a report with market analysis, trends, sentiment, competition level, and pain points ranked by gap size. Every company gets a deep dive with pain point severity scores, a proposed solution, and every individual review linked to the original on G2. Export on every dataset.
 
-[![G2 Analysis tutorial: turn negative software reviews into product ideas](https://img.youtube.com/vi/fQk0Dcy2WFY/maxresdefault.jpg)](https://www.youtube.com/watch?v=fQk0Dcy2WFY)
+Watch the tutorial: [G2 Analysis tutorial: turn negative software reviews into product ideas](https://www.youtube.com/watch?v=fQk0Dcy2WFY)
 
 More G2 tutorials:
 
@@ -189,7 +191,7 @@ Find validated startup opportunities from real user reviews of business software
 
 Uncover mobile app market opportunities from user feedback. Search unlimited keywords to discover niche markets, analyze competitors, and get AI-powered insights: pain points with severity and frequency, root causes, real review quotes, and a proposed solution for every gap. Covers 10,000+ apps, 500,000+ reviews, and 500+ niches across the Apple App Store and Google Play.
 
-[![App Store Analysis tutorial: uncover mobile app opportunities from reviews](https://img.youtube.com/vi/D9DUf6rQ8eg/maxresdefault.jpg)](https://www.youtube.com/watch?v=D9DUf6rQ8eg)
+Watch the tutorial: [App Store Analysis tutorial: uncover mobile app opportunities from reviews](https://www.youtube.com/watch?v=D9DUf6rQ8eg)
 
 More App Store Analysis tutorials:
 
@@ -214,7 +216,7 @@ App Store Pipeline tutorials:
 
 See what businesses are actively paying humans to do, then productize it. Upwork Analysis reveals freelance job patterns across hundreds of categories, surfacing repetitive paid tasks that can be automated into SaaS products. It is the clearest willingness-to-pay signal available: the money is already being spent.
 
-[![Upwork Analysis tutorial: turn freelance jobs into SaaS products](https://img.youtube.com/vi/U6HX95A4GHI/maxresdefault.jpg)](https://www.youtube.com/watch?v=U6HX95A4GHI)
+Watch the tutorial: [Upwork Analysis tutorial: turn freelance jobs into SaaS products](https://www.youtube.com/watch?v=U6HX95A4GHI)
 
 More Upwork tutorials:
 
@@ -224,7 +226,7 @@ More Upwork tutorials:
 
 Build custom discovery pipelines across 3 million+ subreddits. Point a pipeline at the communities your target users live in, add keywords like "need better tool" or "alternative to," and get structured pain point analysis with frequency scores, impact scores, and source quotes in minutes. Run custom pipelines multiple times per day to track keywords and trends in near real time.
 
-[![Reddit Pipelines tutorial: custom startup idea discovery from any subreddit](https://img.youtube.com/vi/IC7LYZqLezY/maxresdefault.jpg)](https://www.youtube.com/watch?v=IC7LYZqLezY)
+Watch the tutorial: [Reddit Pipelines tutorial: custom startup idea discovery from any subreddit](https://www.youtube.com/watch?v=IC7LYZqLezY)
 
 ## Stripe Index
 
@@ -242,13 +244,13 @@ The core database. Thousands of curated real user problems, each with market siz
 
 Proven product solutions mapped to validated problems. See what solutions already work, how they are positioned, and where a better version could win.
 
-[![Solutions DB tutorial: proven products mapped to validated problems](https://img.youtube.com/vi/pTgTaMxVNx4/maxresdefault.jpg)](https://www.youtube.com/watch?v=pTgTaMxVNx4)
+Watch the tutorial: [Solutions DB tutorial: proven products mapped to validated problems](https://www.youtube.com/watch?v=pTgTaMxVNx4)
 
 ## Pain Points DB
 
 200K+ pain points found and ranked. Every pain point is scored by gap size, frequency, and severity, with the number of affected companies behind it, so you always know which problem is worth solving first.
 
-[![Pain Points DB tutorial: ranked pain points scored by frequency and impact](https://img.youtube.com/vi/OVgRWCEOVPM/maxresdefault.jpg)](https://www.youtube.com/watch?v=OVgRWCEOVPM)
+Watch the tutorial: [Pain Points DB tutorial: ranked pain points scored by frequency and impact](https://www.youtube.com/watch?v=OVgRWCEOVPM)
 
 More Pain Points tutorials:
 
@@ -324,7 +326,7 @@ Funded DB tutorials:
 
 A complete production-ready starter template with authentication and payments already wired up. Skip weeks of setup and go straight from validated idea to working MVP.
 
-[![Micro SaaS Boilerplate tutorial: production-ready starter template](https://img.youtube.com/vi/oYCJPlwuCe4/maxresdefault.jpg)](https://www.youtube.com/watch?v=oYCJPlwuCe4)
+Watch the tutorial: [Micro SaaS Boilerplate tutorial: production-ready starter template](https://www.youtube.com/watch?v=oYCJPlwuCe4)
 
 ## Claude Skills Packs
 
