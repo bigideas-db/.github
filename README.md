@@ -4,7 +4,7 @@
 
 # BigIdeasDB
 
-**Find validated startup ideas from real user problems scraped from Reddit, G2, Capterra, Upwork, and app stores.**
+**Find validated startup ideas from real user problems scraped from Reddit, G2, Capterra, Upwork, and App Stores.**
 
 [Website](https://bigideasdb.com) | [Twitter](https://twitter.com/om_patel5) | [LinkedIn](https://www.linkedin.com/company/bigideas-db) | [Discord](https://discord.com/invite/AyexVev452) | [YouTube](https://www.youtube.com/@bigideasdb) | [Book a Demo](https://calendly.com/pavado-tech/founder-meeting)
 
