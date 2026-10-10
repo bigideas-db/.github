@@ -20,6 +20,12 @@
 
 ---
 
+## 📚 Open data: Awesome Business Ideas
+
+**[Awesome Business Ideas](https://github.com/bigideas-db/awesome-business-ideas)** is our free, data-ranked list of business ideas: small businesses to start or buy, SaaS and software ideas, online businesses, AI agent ideas and service business ideas, each ranked by real earnings, prices and revenue. Refreshed monthly.
+
+---
+
 ## What is BigIdeasDB?
 
 > **BigIdeasDB is an AI-powered platform that surfaces validated startup ideas from over 1 million real user complaints across 10 platforms** (Reddit, G2, Capterra, Upwork, the Apple App Store, and Google Play), then layers in verified revenue data, acquisition listings, and VC funding intelligence so every opportunity comes with proof of demand.
